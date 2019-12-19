@@ -26,6 +26,8 @@ background-image: url(../images/vibrantFlowers.jpeg);
 
 .world {
 text-align: center;
+font-size: 29px;
+font-family: 'Poppins', sans-serif;
 background-color: #ffd9da;
 margin-top: 7%;
 margin-bottom: 0%;
@@ -47,6 +49,11 @@ padding: 16px;
     width: 990px;
 } */
 
+#hello {
+  font-family: 'Anton', sans-serif;
+  font-size: 45px;
+}
+
 .container-about {
     background-color: #ffd9da;
     background-size: cover;
@@ -58,6 +65,10 @@ padding: 16px;
 
   .card-about {
 padding: 22px;
+  }
+
+  .myBio {
+    font-family: 'Poppins', sans-serif;
   }
 
   .container-progress {
