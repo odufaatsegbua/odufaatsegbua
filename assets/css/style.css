@@ -3,7 +3,8 @@ background-color: #cc7178;
 }
 
 .nav-link, .navbar-brand {
-font-family: 'Poppins', sans-serif;
+  font-family: 'Comfortaa', cursive;
+  font-size: 18px;
 }
 
 .nav {
@@ -17,7 +18,7 @@ font-family: 'Poppins', sans-serif;
   padding-top: 0px;
 }
 .navbar .navbar-brand img {
-  height: 65px;
+  height: 60px;
 }
 
 .nav-item {
@@ -38,21 +39,6 @@ padding-bottom: 250px;
 height: 668px;
 }
 
-/* body {
-background-image: url(../images/vibrantFlowers.jpeg);
-} */
-
-.world {
-text-align: center;
-font-size: 29px;
-font-family: 'Poppins', sans-serif;
-background-color: #ffd9da;
-margin-top: 7%;
-margin-bottom: 0%;
-margin-left: 20%;
-margin-right: 20%;
-padding: 16px;
-}
 
 /* .media-links {
     background-color: #82E0AA;
@@ -68,9 +54,24 @@ padding: 16px;
 } */
 
 #hello {
-  font-family: 'Anton', sans-serif;
-  font-size: 45px;
+font-size: 50px;
 }
+
+#fullstack {
+font-size: 26px;
+}
+
+.world {
+  text-align: center;
+  font-family: 'Comfortaa', cursive;
+  background-color: #ffd9da;
+  margin-top: 7%;
+  margin-bottom: 0%;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding: 16px;
+  border-radius: 35px;
+  }
 
 .container-about {
     background-color: #ffd9da;
@@ -85,8 +86,17 @@ padding: 16px;
 padding: 22px;
   }
 
+#about {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 34px;
+  text-align: center;
+  }
+   
+  
+
   .myBio {
     font-family: 'Poppins', sans-serif;
+    font-size: 17px;
   }
 
   .container-work {
